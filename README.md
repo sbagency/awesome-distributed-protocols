@@ -1,7 +1,7 @@
 # awesome-distributed-protocols
 distributed protocols
 
-*[neofs-sia-filecoin-and-swarm](https://neonewstoday.com/general/comparing-decentralized-storage-solutions-neofs-sia-filecoin-and-swarm/)
+* [neofs-sia-filecoin-and-swarm](https://neonewstoday.com/general/comparing-decentralized-storage-solutions-neofs-sia-filecoin-and-swarm/)
 
 * [BOLT: Blind Off-chain Lightweight Transactions](https://github.com/boltlabs-inc/libzkchannels)
 * [bloXroute: A Scalable Trustless Blockchain Distribution Network](https://bloxroute.com/wp-content/uploads/2019/11/bloXrouteWhitepaper.pdf)
