@@ -8,3 +8,5 @@ distributed protocols
 * [Distributed Auditing Proofs of Liabilities DAPOL](https://eprint.iacr.org/2020/468.pdf)
 * [Plumo: Towards Scalable Interoperable Blockchains Using Ultra
 Light Validation Systems](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-plumo_celolightclient.pdf)
+
+* [Kadena’s public blockchain is a braided, high-throughput Proof of Work system that improves throughput and scalability while maintaining the security and integrity found in Bitcoin. ](https://www.kadena.io/kadena)
